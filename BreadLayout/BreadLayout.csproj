@@ -10,19 +10,26 @@
         <RepositoryUrl>https://github.com/KBurst/BreadLayout</RepositoryUrl>
         <PackageTags>interact, interactive, pan, pinch, zoom, bread, layout</PackageTags>
         <PackageReleaseNotes>This package supercedes InteractiveLayout.</PackageReleaseNotes>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.0" />
-      <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675" />
+        <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.0"/>
+        <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675"/>
     </ItemGroup>
 
     <ItemGroup>
-      <None Include="..\bread_ballin.png">
-        <Pack>True</Pack>
-        <PackagePath></PackagePath>
-        <Link>bread_ballin.png</Link>
-      </None>
+        <None Include="..\bread_ballin.png">
+            <Pack>True</Pack>
+            <PackagePath></PackagePath>
+            <Link>bread_ballin.png</Link>
+        </None>
+        <None Include="..\README.md">
+            <Pack>True</Pack>
+            <PackagePath></PackagePath>
+            <Link>README.md</Link>
+        </None>
     </ItemGroup>
 
 </Project>
