@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net5.0;netstandard2.0</TargetFrameworks>
+        <PackageVersion>1.0.0</PackageVersion>
+        <Title>Bread Layout for Image Pan and Zoom</Title>
+        <Authors>KingBurst</Authors>
+        <Description>The Bread Layout is a Xamarin Forms layout that allows the user to pan and zoom into an image wrapped within the layout.</Description>
+        <PackageIcon>bread_ballin.png</PackageIcon>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.0" />
+      <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="bread_ballin.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+    </ItemGroup>
+
+</Project>
