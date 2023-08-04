@@ -7,6 +7,9 @@
         <Authors>KingBurst</Authors>
         <Description>The Bread Layout is a Xamarin Forms layout that allows the user to pan and zoom into an image wrapped within the layout.</Description>
         <PackageIcon>bread_ballin.png</PackageIcon>
+        <RepositoryUrl>https://github.com/KBurst/BreadLayout</RepositoryUrl>
+        <PackageTags>interact, interactive, pan, pinch, zoom, bread, layout</PackageTags>
+        <PackageReleaseNotes>This package supercedes InteractiveLayout.</PackageReleaseNotes>
     </PropertyGroup>
 
     <ItemGroup>
@@ -15,9 +18,10 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Update="bread_ballin.png">
+      <None Include="..\bread_ballin.png">
         <Pack>True</Pack>
         <PackagePath></PackagePath>
+        <Link>bread_ballin.png</Link>
       </None>
     </ItemGroup>
 
