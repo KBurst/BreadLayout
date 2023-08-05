@@ -4,3 +4,10 @@
 
 # `obj` Files  #
 BreadLayout/obj/*
+
+# NuGet Files  #
+*.nupkg
+*.nuspec
+
+# IDE File Information #
+rider.project.restore.info
