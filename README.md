@@ -1,9 +1,10 @@
 # Bread Layout
-A layout designed to allow the user to Pinch and Pan the layout content to view its content in various manners.
+The Bread Layout is a Xamarin Forms layout that allows the user to pan and zoom into an 
+image wrapped within the layout.
 
 # Usage
-To utilize the layout, simply incorporate the namespace into the Xamarin Form XML file, and store the image
-inside of the layout in the following manner:
+To utilize the layout, simply incorporate the namespace into the Xamarin Form XML file, 
+and store the image inside of the layout in the following manner:
 
 ```
 <?xml version="1.0" encoding="utf-8" ?>
