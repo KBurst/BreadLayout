@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <TargetFrameworks>net5.0;netstandard2.0</TargetFrameworks>
-        <PackageVersion>1.0.0</PackageVersion>
+        <PackageVersion>1.0.1</PackageVersion>
         <Title>Bread Layout for Image Pan and Zoom</Title>
         <Authors>KingBurst</Authors>
         <Description>The Bread Layout is a Xamarin Forms layout that allows the user to pan and zoom into an image wrapped within the layout.</Description>
