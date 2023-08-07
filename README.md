@@ -1,4 +1,4 @@
-# Bread Layout
+# Bread Layout [![NuGet Version](https://img.shields.io/nuget/v/breadlayout)](https://www.nuget.org/packages/BreadLayout/) [![Downloads](https://img.shields.io/nuget/dt/breadlayout)](https://www.nuget.org/packages/BreadLayout/)
 The Bread Layout is a Xamarin Forms layout that allows the user to pan and zoom into an 
 image wrapped within the layout.
 
