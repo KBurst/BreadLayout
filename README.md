@@ -6,7 +6,7 @@ image wrapped within the layout.
 To utilize the layout, simply incorporate the namespace into the Xamarin Form XML file, 
 and store the image inside of the layout in the following manner:
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage ...
              xmlns:breadLayout="clr-namespace:BreadLayout;assembly=BreadLayout">
