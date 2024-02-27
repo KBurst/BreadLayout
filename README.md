@@ -19,7 +19,11 @@ and store the image inside of the layout in the following manner:
 </ContentPage>
 ```
 
+# Pull Request
+If you'd like to make an open-source contribution to this code base, you can submit a pull request for
+me to review (NOTE: You cannot push code directly to the `main` branch).
+
 # Issues & Inquiries
-If you'd like to report a potential bug with this layout or if you have suggestions for additional features you'd like to
-see from this layout, you can either create a GitHub issue or send an email to tlcherry189@gmail.com describing your concern
-or bug report.
+If you'd like to report a potential bug with this layout, or if you have suggestions for 
+additional features you'd like to see from this layout, feel free to submit a GitHub Issue for 
+me to address.
