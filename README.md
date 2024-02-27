@@ -18,3 +18,8 @@ and store the image inside of the layout in the following manner:
 
 </ContentPage>
 ```
+
+# Issues & Inquiries
+If you'd like to report a potential bug with this layout or if you have suggestions for additional features you'd like to
+see from this layout, you can either create a GitHub issue or send an email to tlcherry189@gmail.com describing your concern
+or bug report.
