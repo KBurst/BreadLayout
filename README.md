@@ -19,7 +19,7 @@ and store the image inside of the layout in the following manner:
 </ContentPage>
 ```
 
-# Pull Request
+# Pull Requests
 If you'd like to make an open-source contribution to this code base, you can submit a pull request for
 me to review (NOTE: You cannot push code directly to the `main` branch).
 
